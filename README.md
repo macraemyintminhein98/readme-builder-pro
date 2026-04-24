@@ -1,18 +1,16 @@
 # README Builder Pro
 
-Generate professional and engaging GitHub README files effortlessly with README Builder Pro.
+Generate professional and dynamic `README.md` files for your GitHub repositories with ease.
 
 ## Features
 
-*   **Easy Input**: Simple form to add your project details.
-*   **Template Library**: Choose from beautiful, ready-to-use README templates.
-*   **Instant Generation**: Get your `.md` file in seconds.
-*   **Markdown Styling**: Options for badges, TOC, and more.
+- Customizable sections (project name, description, features, installation, usage, license)
+- Integrates badges (shields.io)
+- Live preview of your README
+- Download `.md` file or copy to clipboard
 
-## Usage
+## Get Started
 
-Visit [your-website.com](http://your-website.com) (or similar placeholder) to get started. Fill in your project's information, select a template, and download your polished README.
+Visit our landing page to purchase instant access and streamline your repository documentation!
 
-## Support
-
-For any questions or issues, please contact `support@readmebuilder.pro`.
+[README Builder Pro - Landing Page](https://buy.stripe.com/test_dR6aGg6hT31B6J4aEE)
