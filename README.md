@@ -1,12 +1,19 @@
 # README Builder Pro
 
-Elevate your GitHub projects with professionally crafted READMEs in minutes. Input your project details, select from elegant templates, and export high-quality Markdown. Designed for developers, open-source contributors, and students.
+Generate professional, customizable README.md files for your GitHub projects with ease. Input your project details, and instantly get a beautifully formatted README ready for your repository.
 
-## Features:
+## Features
 
-*   Intuitive input fields for project info
-*   Curated template library
-*   Instant Markdown export
-*   One-time purchase for lifetime use
+-   **Simple Form Input:** Quickly add project name, description, features, installation, usage, and more.
+-   **Markdown Generation:** Get a clean, standard Markdown output.
+-   **Basic Templates:** Start with well-structured README layouts.
 
-**Get started today for just $9.99!**
+## Pro Features (Coming Soon)
+
+-   **Advanced Templates:** Unlock premium, highly-designed README templates.
+-   **Custom Branding:** Add custom badges, icons, and color schemes.
+-   **Integrated Previews:** See your README in real-time.
+
+## Getting Started
+
+Visit [readmebuilderpro.vercel.app](https://readmebuilderpro.vercel.app) (link TBD) to start building your README today!
